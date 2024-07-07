@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz2979&theme=dark#gh-dark-mode-only" alt="faiz2979" /></a> </p>
 
-- 🌱 I’m currently learning **Everything i can learn**
+- 🌱 I’m currently learning **everything that i think interesting**
 
 - 📫 How to reach me **faizannabil877@gmail.com**
 
