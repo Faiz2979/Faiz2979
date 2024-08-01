@@ -41,12 +41,12 @@
 
 
 <h1 align="left" >GitHub Stats:</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiz2979.&show_icons=true&theme=transparent)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiz2979&theme=dark#gh-dark-mode-only" alt="faiz2979" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiz2979&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="faiz2979" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiz2979&show_icons=true&theme=dark#gh-dark-mode-only&locale=en&layout=compact" alt="faiz2979" /></p>
+
+![Faiz2979's Stats](https://github-readme-stats.vercel.app/api?username=Faiz2979&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
+![Faiz2979's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faiz2979&theme=algolia&hide_border=true)
+
+![Faiz2979's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz2979&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz2979&theme=discord#gh-dark-mode-only" alt="faiz2979" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz2979&theme=algolia#gh-dark-mode-only" alt="faiz2979" /></a> </p>
