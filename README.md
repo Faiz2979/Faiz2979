@@ -37,16 +37,17 @@
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image]()
+
 
 
 <h1 align="left" >GitHub Stats:</h1>
 
-![Faiz2979's Stats](https://github-readme-stats.vercel.app/api?username=Faiz2979&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![Faiz2979's Stats](https://github-readme-stats.vercel.app/api?username=Faiz2979&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 
-![Faiz2979's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faiz2979&theme=algolia&hide_border=true)
+![Faiz2979's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faiz2979&theme=algolia&hide_border=false)
 
-![Faiz2979's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz2979&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![Faiz2979's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz2979&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
+<h1 align="left" >GitHub Trophy:</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz2979&theme=algolia#gh-dark-mode-only" alt="faiz2979" /></a> </p>
