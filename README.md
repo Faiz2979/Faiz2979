@@ -35,7 +35,6 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -48,6 +47,6 @@
 
 ![Faiz2979's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz2979&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
-<h1 align="left" >GitHub Trophy:</h1>
+<h1 align="center" >GitHub Trophy:</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz2979&theme=algolia#gh-dark-mode-only" alt="faiz2979" /></a> </p>
