@@ -2,7 +2,7 @@
 <h3 align="center">A Student from SMK TELKOM MALANG</h3>
 
 
-- 🌱 I’m currently learning **everything that i think interesting**
+- 🌱 I’m currently learning **Game and Web Development**
 
 - 📫 How to reach me **faizannabil877@gmail.com**
 
