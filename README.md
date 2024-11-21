@@ -16,9 +16,10 @@
 <a href="https://instagram.com/flmxq.ae" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="discordapp.com/users/620896637291724800" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Instagram">
+<a href="https://discordapp.com/users/620896637291724800" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
+
 </p>
 
 <h1 align="left" >Tech Stack:</h1>
