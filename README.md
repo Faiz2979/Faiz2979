@@ -61,7 +61,7 @@
 
 ![Faiz2979's Stats](https://github-readme-stats.vercel.app/api?username=Faiz2979&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 
-![Faiz2979's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faiz2979&theme=algolia&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Faiz2979&theme=algolia&short_numbers=true)](https://git.io/streak-stats)
 
 ![Faiz2979's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz2979&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
