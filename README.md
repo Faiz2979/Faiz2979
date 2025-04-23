@@ -9,12 +9,15 @@
 - ⚡ Fun fact **I Play Minecraft**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <a href="https://kaggle.com/faiz annabil" target="blank">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="faiz annabil"/>
 </a>
 <a href="https://instagram.com/wisefaiz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/faizannabil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
 </a>
 
 </p>
