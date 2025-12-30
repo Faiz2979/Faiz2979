@@ -56,17 +56,3 @@
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
-
-
-<h1 align="left" >GitHub Stats:</h1>
-
-![Faiz2979's Stats](https://github-readme-stats.vercel.app/api?username=Faiz2979&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Faiz2979&theme=algolia&short_numbers=true)](https://git.io/streak-stats)
-
-![Faiz2979's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz2979&theme=algolia&show_icons=true&hide_border=false&layout=compact)
-
-<h1 align="center" >GitHub Trophy:</h1>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiz2979&theme=algolia#gh-dark-mode-only" alt="faiz2979" /></a> </p>
