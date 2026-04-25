@@ -69,9 +69,3 @@
 ![TRPC](https://img.shields.io/badge/trpc-blue?logo=trpc&style=for-the-badge&logoColor=white)
 
 
-### Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Faiz2979&theme=tokyonight&hide_border=true)
-<!---  
-![]() 
---->
-
