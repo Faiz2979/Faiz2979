@@ -65,6 +65,7 @@
 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=fff)
+
 ![TanStack](https://img.shields.io/badge/tanstack-query?style=for-the-badge&logo=tanstack&color=green)
 ![TRPC](https://img.shields.io/badge/trpc-blue?logo=trpc&style=for-the-badge&logoColor=white)
 
