@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faiz Annabil</h1>
-<h3 align="center">A Student from SMK TELKOM MALANG</h3>
+<h3 align="center">A Junior Software Engineer from Indonesia</h3>
 
 ![](https://komarev.com/ghpvc/?username=Faiz2979&style=for-the-badge)
 - 🌱 I’m currently learning **Game and Web Development**
