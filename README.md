@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Faiz2979&style=for-the-badge)
 - 🌱 I’m currently learning **Game and Web Development**
 
-- 📫 How to reach me **faizannabil877@gmail.com**
+- 📫 How to reach me **hi.faizannabil@gmail.com**
 
 - ⚡ Fun fact **I Play Minecraft**
 
