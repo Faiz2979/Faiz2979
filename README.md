@@ -12,7 +12,7 @@
 <a href="https://kaggle.com/faiz annabil" target="blank">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="faiz annabil"/>
 </a>
-<a href="https://instagram.com/wisefaiz" target="_blank">
+<a href="https://instagram.com/hai_akufaiz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://www.linkedin.com/in/faizannabil/" target="_blank">
