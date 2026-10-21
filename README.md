@@ -20,6 +20,10 @@
 </a>
 
 </p>
+<h1 align="left" >Stats</h1>
+
+![faiz2979's Stats](https://github-readme-stats.vercel.app/api?username=faiz2979&theme=nightowl&show_icons=true&hide_border=true&count_private=false)
+![faiz2979's Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiz2979&theme=nightowl&hide_border=true)
 
 <h1 align="left" >Tech Stack:</h1>
 
